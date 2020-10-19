@@ -1,7 +1,7 @@
 # Starting 
 ## Trianing for the hackathon
 ### What is a Armstrong number
-<p>ISum of the cubes of the digits must be equal to the number itself (or) Sum of the digitis which is raised to the power n and equal to the number itself.</p>
+<p>Sum of the cubes of the digits must be equal to the number itself (or) Sum of the digits which is raised to the power n and equal to the number itself.</p>
 <p>Let the number be some x.</p>
 <p>Let a,b,c are the digits present in the number</p>
 <p>x=a+b+c</p>
